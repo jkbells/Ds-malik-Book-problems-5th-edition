@@ -12,24 +12,25 @@ I have decided to make it an on-going effort to go through this book in its enti
 
 Chapters are outlined as follows:
 
-    An Overview of Computers and Programming Languages
-    Basic Elements of C++
-    Input / Output
-    Control Structures 1 (Selection)
-    Control Structures 2 (Repetition)
-    User-Defined Functions 1
-    User-Defined Functions 2
-    User-Defined Simple Data Types, Namespaces and the string type
-    Arrays and Strings
-    Applications of Arrays (Searching and Sorting) and the vector type
-    Records (structs)
-    Classes & Data Abstractions
-    Inheritence and Composition
-    Pointers, Classes, Virtual Functions and Abstract Classes
-    Overloading and Templates
-    Exception Handling
-    Recursion
-    Linked Lists
-    Stacks and Queues
+   An Overview of Computers and Programming Languages
+1)  Basic Elements of C++
+2)  Input / Output
+3)  Control Structures 1 (Selection)
+4)  Control Structures 2 (Repetition)
+5)  User-Defined Functions 1
+6)  User-Defined Functions 2
+7)  User-Defined Simple Data Types, Namespaces and the string type
+8)  Arrays and Strings
+9)  Applications of Arrays (Searching and Sorting) and the vector type
+10) Records (structs)
+11) Classes & Data Abstractions
+12) Inheritence and Composition
+13) Pointers, Classes, Virtual Functions and Abstract Classes
+14) Overloading and Templates
+15) Exception Handling
+16) Recursion
+17) Linked Lists
+18) Stacks and Queues
+
 
 Any feedback on the code contained within this repo is not only appreciated but encouraged.
